@@ -15,10 +15,3 @@ Olá! Eu sou a Kauany Hahn Sartor.<br>Estudo engenharia de software e desde 2019
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauanysartor/kauanysartor/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-
-![](https://github-contributor-stats.vercel.app/api?username=kauanysartor&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=kauanysartor&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
