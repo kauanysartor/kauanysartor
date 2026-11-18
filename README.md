@@ -1,5 +1,5 @@
 <h2 align="center"><mark>Olá! Eu sou a Kauany Hahn Sartor.</mark></h2>
-Curso engenharia de software e desde 2019 venho estudando o idioma coreano.<br>Atualmente estou estudando java, c++, html, css e javascript. <br>Por aqui, há projetinhos simples que desenvolvo por prática, utilizando situações que observo no meu dia!<br>실력이 아직 부족하지만 잘 보고 가세요~~
+Curso engenharia de software e desde 2019 venho estudando o idioma coreano.<br>Atualmente estou estudando java, c++, html, css e javascript. <br>Por aqui, há projetinhos simples que desenvolvo por prática, utilizando situações que observo no meu dia!<br>잘 보고 가세요~~
 
 ![](https://github-readme-stats.vercel.app/api?username=kauanysartor&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Animação Legal](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs2cmhhcHEycjM2MWFoMWh1N2pqaGJ5d3ZtdXlzd29rZTh2bWQyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rdvDGctztED3W/giphy.gif)
